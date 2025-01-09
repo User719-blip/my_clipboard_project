@@ -46,7 +46,7 @@ This project is a web application that allows users to share clipboard data (e.g
 
 3. Install backend dependencies
    ```sh
-   pip install -r requirements.txt
+   pip install -r requirement.txt
 
 ##Usage
 
