@@ -36,7 +36,7 @@ This project is a web application that allows users to share clipboard data (e.g
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/clipboard-sharing-app.git
+   git clone https://github.com/User719-blip/my_clipboard_project.git
    cd clipboard-sharing-app
 
 2. Create a virtual enviroment
